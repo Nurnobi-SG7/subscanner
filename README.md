@@ -1,2 +1,2 @@
 # Simple subdomain scanner
-USAGE: ruby subscanner.rb domain
+USAGE: ruby subscanner.rb <domain>
